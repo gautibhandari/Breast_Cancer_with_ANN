@@ -1,5 +1,7 @@
-# Breast_Cancer_with_ANN
-Breast_Cancer_detection with_ANN
+# Breast_Cancer project
+Breast_Cancer_detection with_ANN and
+
+Breast_Cancer_detection with_ML
 
 # Data Set Characteristics:
 Number of Instances: 569
